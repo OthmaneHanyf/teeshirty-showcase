@@ -1,10 +1,11 @@
 {
   "files": {
     "main.css": "/teeshirty-showcase/static/css/main.147a486e.css",
-    "main.js": "/teeshirty-showcase/static/js/main.228122e0.js",
+    "main.js": "/teeshirty-showcase/static/js/main.2a73922b.js",
     "static/media/home_hero.png": "/teeshirty-showcase/static/media/home_hero.45294a4eae620e26d495.png",
     "static/media/home_cards.png": "/teeshirty-showcase/static/media/home_cards.a5a323cceca26f997342.png",
     "static/media/mockup.png": "/teeshirty-showcase/static/media/mockup.94d556976184b6565788.png",
+    "static/media/code.png": "/teeshirty-showcase/static/media/code.0c47ca3a1eb2daf02be1.png",
     "static/media/postgresql.svg": "/teeshirty-showcase/static/media/postgresql.ae92b576b8ea41666538c0756df27969.svg",
     "static/media/banner02.svg": "/teeshirty-showcase/static/media/banner02.2f6ba07c3ed4697086f7.svg",
     "static/media/banner03.svg": "/teeshirty-showcase/static/media/banner03.a278a430daff7d7a2a6e.svg",
@@ -14,10 +15,10 @@
     "static/media/django.svg": "/teeshirty-showcase/static/media/django.0779fca292c0a723b464bcb7534f802c.svg",
     "index.html": "/teeshirty-showcase/index.html",
     "main.147a486e.css.map": "/teeshirty-showcase/static/css/main.147a486e.css.map",
-    "main.228122e0.js.map": "/teeshirty-showcase/static/js/main.228122e0.js.map"
+    "main.2a73922b.js.map": "/teeshirty-showcase/static/js/main.2a73922b.js.map"
   },
   "entrypoints": [
     "static/css/main.147a486e.css",
-    "static/js/main.228122e0.js"
+    "static/js/main.2a73922b.js"
   ]
 }
