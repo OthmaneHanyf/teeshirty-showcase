@@ -12,16 +12,17 @@ const FeatureCard = ({ iconUrl, iconText }) =>  (
 
 const Features = () => {
   return (
-    <div className={`${styles.section} ${styles.bgPrimary} banner03`}>
+    <div className={`${styles.section} ${styles.bgPrimary}`}>
       <div className={`${styles.subSection} flex-col text-center`}>
         <div>
           <h1 className={`${styles.h1Text} ${styles.whiteText}`}>Technologies</h1>
-          <p className={`${styles.pText} ${styles.whiteText}`}>ProNef has been developed using a cross-platform technology, React Native.</p>
+          {/* <p className={`${styles.pText} ${styles.whiteText}`}>ProNef has been developed using a cross-platform technology, React Native.</p> */}
         </div>
 
         <div className={styles.flexWrap}>
-          <FeatureCard iconUrl={assets.react} iconText="React Native" />
-          <FeatureCard iconUrl={assets.javascript} iconText="JavaScript" />
+          <FeatureCard iconUrl={assets.react} iconText="React" />
+          <FeatureCard iconUrl={assets.django} iconText="Django" />
+          <FeatureCard iconUrl={assets.postgresql} iconText="PostgreSQL" />
         </div>
       </div>
     </div>
