@@ -24,7 +24,7 @@ const SectionWrapper = ({ title, description, showBtn, mockupImg, banner, revers
           ${styles.descriptionText}`}>{description}</p>
           {showBtn && (
             <Button 
-              assetUrl={assets.expo}
+              assetUrl={assets.code}
               link="https://teeshirty.herokuapp.com/"
             />
           )}
