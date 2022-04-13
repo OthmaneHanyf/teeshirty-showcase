@@ -5,7 +5,7 @@ import react from "./react.svg";
 import django from "./django.svg";
 import postgresql from "./postgresql.svg";
 import heroku from "./heroku.png";
-import heroku from "./code.png";
+import code from "./code.png";
 
 export default {
   homeHero,
